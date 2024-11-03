@@ -7,6 +7,6 @@ In the first phase, the goal was to integrate *Partially-Mapped Crossover* to th
 |----------|----------|
 | Italy | 5783 |
 | China | 73026 |
-| Russia | 49461.25 |
+| Russia | 48749.33 |
 | US | 63637.35 |
 | Vanuatu | 1345.54 |
